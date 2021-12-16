@@ -49,8 +49,7 @@ gpcp_v02r03-preliminary_monthly_d201908_c20190910.nc
 
 ## License
 
-Access is free but users are requested to add the official citation as below and email the citation to
-george.j.huffman@nasa.gov or david.t.bolvin@nasa.gov.
+Unknown.
 
 ## Data citation
 
@@ -59,11 +58,20 @@ GPCP Version 1.2 One-Degree Daily Precipitation Data Set.
 *Research Data Archive at the National Center for Atmospheric Research, Computational and Information Systems Laboratory.*
 https://doi.org/10.5065/D6D50K46. Accessed 30 Jan 2018.
 
-v1.3: Simply use reference below, for the moment no specific indication has been given.
+v1.3: Unknown.
 
-## References
+## Reference
 
 Huffman GJ, Adler RF, Morrissey MM, Bolvin DT, Curtis S, Joyce R, McGavock B, and Susskind J (2001).
 Global precipitation at one-degree daily resolution from multisatellite observations.
 *Journal of Hydrometeorolgy*, 2, 36-50.
 [https://doi.org/10.1175/1525-7541(2001)002<0036:GPAODD>2.0.CO;2](https://doi.org/10.1175/1525-7541(2001)002<0036:GPAODD>2.0.CO;2)
+
+## Acknowledgement
+
+No statement provided.
+
+## Author note
+
+Users are requested to add the official data citation as above and email their citation to
+george.j.huffman@nasa.gov or david.t.bolvin@nasa.gov.
