@@ -56,7 +56,7 @@ george.j.huffman@nasa.gov or david.t.bolvin@nasa.gov.
 
 v1.2: Huffman GJ, Bolvin DT, and Adler RF (2016).
 GPCP Version 1.2 One-Degree Daily Precipitation Data Set.
-Research Data Archive at the National Center for Atmospheric Research, Computational and Information Systems Laboratory.
+*Research Data Archive at the National Center for Atmospheric Research, Computational and Information Systems Laboratory.*
 https://doi.org/10.5065/D6D50K46. Accessed 30 Jan 2018.
 
 v1.3: Simply use reference below, for the moment no specific indication has been given.
