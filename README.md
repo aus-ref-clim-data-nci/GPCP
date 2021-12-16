@@ -4,7 +4,7 @@ The Global Precipitation Climatology Project (GPCP),
 produced by the NASA Mesoscale Atmospheric Processes Laboratory,
 comprises threee products: one-degree daily (1DD), monthly product and pentad data.
 
-We downloaded the following products:
+We have downloaded the following products:
 - daily v1.2: this is limted to 2015 and currently not distributed anymore
 - daily v1.3: this is available up to a three months from present date and it is the recommended daily version
 - monthly v2.3: which is the recommended monthly version, goes up to present date, contains some preliminary files
@@ -41,7 +41,8 @@ Files are in netcdf4 format and filenames are respectively:
   for example: `gpcp_v01r03_daily_d20170323_c20171211.nc`
 - `gpcp_v02r03_monthly_dYYYYMMDD_cYYYYMMDD.nc`, same conventions as for daily v1.3
 
-If preliminary files are present (currently applies only to v2.3 monthly) then this is indicated in the filenames as in this example:
+If preliminary files are present (currently applies only to v2.3 monthly)
+then this is indicated in the filenames as in this example:
 ```
 gpcp_v02r03-preliminary_monthly_d201908_c20190910.nc
 ```
@@ -53,13 +54,16 @@ george.j.huffman@nasa.gov or david.t.bolvin@nasa.gov.
 
 ## Data citation
 
-v1.2: Huffman, G. J., D. T. Bolvin, and R. F. Adler. 2016. GPCP Version 1.2 One-Degree Daily Precipitation Data Set.
+v1.2: Huffman GJ, Bolvin DT, and Adler RF (2016).
+GPCP Version 1.2 One-Degree Daily Precipitation Data Set.
 Research Data Archive at the National Center for Atmospheric Research, Computational and Information Systems Laboratory.
 https://doi.org/10.5065/D6D50K46. Accessed 30 Jan 2018.
 
 v1.3: Simply use reference below, for the moment no specific indication has been given.
 
-## Reference
+## References
 
+Huffman GJ, Adler RF, Morrissey MM, Bolvin DT, Curtis S, Joyce R, McGavock B, and Susskind J (2001).
 Global precipitation at one-degree daily resolution from multisatellite observations.
-J. Hydrometeor., 2, 36-50 (DOI: 10.1175/1525-7541(2001)002<0036:GPAODD>2.0.CO;2).
+*Journal of Hydrometeorolgy*, 2, 36-50.
+[https://doi.org/10.1175/1525-7541(2001)002<0036:GPAODD>2.0.CO;2](https://doi.org/10.1175/1525-7541(2001)002<0036:GPAODD>2.0.CO;2)
