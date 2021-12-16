@@ -81,3 +81,7 @@ No statement provided.
 
 Users are requested to add the official data citation as above and email their citation to
 george.j.huffman@nasa.gov or david.t.bolvin@nasa.gov.
+
+## Assistance
+
+For assistance with GPCP data on NCI, open a new issue at https://github.com/nci-ref-clim-data/GPCP/issues
