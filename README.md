@@ -1,5 +1,7 @@
 # GPCP
 
+## Overview
+
 The Global Precipitation Climatology Project (GPCP),
 produced by the NASA Mesoscale Atmospheric Processes Laboratory,
 comprises threee products: one-degree daily (1DD), monthly product and pentad data.
@@ -13,14 +15,18 @@ The GPCP One-Degree Daily Precipitation Data Set (1DD Data Set) provides daily,
 global 1x1-deg gridded fields of precipitation totals for October 1996 through the delayed present.
 The 1DD draws upon several different data sources, surface and satellite measurements, covering different areas of the globe.
 This product is updated sporadically, about once a month.
-We downloaded v1.3 daily and v2-3 monthly from the
-[NCEI server](https://www.ncei.noaa.gov/data/global-precipitation-climatology-project-gpcp-daily/access/),
-and v1.2 from the [NCAR Research Data Archive](https://rda.ucar.edu/datasets/ds728.3/#!description).
+
 More information is available from the [GPCP webpage](https://precip.gsfc.nasa.gov).
 Detailed documentation is also available from the NCEI data server for
 [v1-3 daily](https://www.ncei.noaa.gov/data/global-precipitation-climatology-project-gpcp-daily/doc/) and
 [v2.3 monthly](https://www.ncei.noaa.gov/data/global-precipitation-climatology-project-gpcp-monthly/doc/).
-This documents are also available on the filesystem in the dataset folder.
+These documents are also available on the filesystem in the dataset folder.
+
+## Data download
+
+We downloaded v1.3 daily and v2-3 monthly from the
+[NCEI server](https://www.ncei.noaa.gov/data/global-precipitation-climatology-project-gpcp-daily/access/),
+and v1.2 from the [NCAR Research Data Archive](https://rda.ucar.edu/datasets/ds728.3/#!description).
 
 ## Data location
 
