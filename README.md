@@ -33,7 +33,7 @@ and v1.2 from the [NCAR Research Data Archive](https://rda.ucar.edu/datasets/ds7
 We've downloaded GPCP data to:
 
 ```
-/g/data/ia39/gpcp/<frequency>/<version>/<YYYY>/<files>
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/<frequency>/<version>/<YYYY>/<files>
 ```
 where `<frequency>` is `mon` or `day` and
 `<version>` is `v1-2` and `v1-3` for daily data and `v2-3` for monthly.
@@ -84,4 +84,4 @@ george.j.huffman@nasa.gov or david.t.bolvin@nasa.gov.
 
 ## Assistance
 
-For assistance with GPCP data on NCI, open a new issue at https://github.com/nci-ref-clim-data/GPCP/issues
+For assistance with GPCP data on NCI, open a new issue at https://github.com/aus-ref-clim-data-nci/GPCP/issues
