@@ -9495,3 +9495,66 @@ Downloading files for 2022
 /g/data/ia39/aus-ref-clim-data-nci//gpcp/data/mon/v2-3//2022/gpcp_v02r03_monthly_d202202_c20220510.nc new
 Checking for redundant files
 Download is complete
+Updated on 2022-06-05 by pxp581
+Downloading files for 2022
+Checking for redundant files
+Download is complete
+Updated on 2022-06-05 by pxp581
+Downloading files for 2022
+Checking for redundant files
+Download is complete
+Updated on 2022-06-12 by pxp581
+Downloading files for 2022
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220301_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220302_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220303_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220304_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220305_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220306_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220307_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220308_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220309_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220310_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220311_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220312_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220313_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220314_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220315_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220316_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220317_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220318_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220319_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220320_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220321_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220322_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220323_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220324_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220325_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220326_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220327_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220328_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220329_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220330_c20220605.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/day/v1-3//2022/gpcp_v01r03_daily_d20220331_c20220605.nc new
+Checking for redundant files
+Download is complete
+Updated on 2022-06-12 by pxp581
+Downloading files for 2022
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/mon/v2-3//2022/gpcp_v02r03-preliminary_monthly_d202205_c20220610.nc new
+/g/data/ia39/aus-ref-clim-data-nci//gpcp/data/mon/v2-3//2022/gpcp_v02r03_monthly_d202203_c20220605.nc new
+Checking for redundant files
+Found extra file for d202203
+['c20220605.nc', 'c20220410.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202203_c20220410.nc to redundant directory
+Download is complete
+Updated on 2022-06-19 by pxp581
+Downloading files for 2022
+Checking for redundant files
+Download is complete
+Updated on 2022-06-19 by pxp581
+Downloading files for 2022
+Checking for redundant files
+Found extra file for d202203
+['c20220605.nc', 'c20220410.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202203_c20220410.nc to redundant directory
+Download is complete

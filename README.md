@@ -7,7 +7,6 @@ produced by the NASA Mesoscale Atmospheric Processes Laboratory,
 comprises threee products: one-degree daily (1DD), monthly product and pentad data.
 
 We have downloaded the following products:
-- daily v1.2: this is limted to 2015 and currently not distributed anymore
 - daily v1.3: this is available up to a three months from present date and it is the recommended daily version
 - monthly v2.3: which is the recommended monthly version, goes up to present date, contains some preliminary files
 
@@ -26,7 +25,6 @@ These documents are also available on the filesystem in the dataset folder.
 
 We downloaded v1.3 daily and v2-3 monthly from the
 [NCEI server](https://www.ncei.noaa.gov/data/global-precipitation-climatology-project-gpcp-daily/access/),
-and v1.2 from the [NCAR Research Data Archive](https://rda.ucar.edu/datasets/ds728.3/#!description).
 
 ## Data location
 
@@ -59,15 +57,13 @@ Unknown.
 
 ## Data citation
 
-v1.2: Huffman GJ, Bolvin DT, and Adler RF (2016).
-GPCP Version 1.2 One-Degree Daily Precipitation Data Set.
-*Research Data Archive at the National Center for Atmospheric Research, Computational and Information Systems Laboratory.*
-https://doi.org/10.5065/D6D50K46. Accessed 30 Jan 2018.
+v1.3 daily - Adler, Robert; Wang, Jian-Jian; Sapiano, Mathew; Huffman, George; Bolvin, David; Nelkin, Eric; and NOAA CDR Program (2017). Global Precipitation Climatology Project (GPCP) Climate Data Record (CDR), Version 1.3 (Daily) [Indicate subset used.]. NOAA National Centers for Environmental Information. doi:10.7289/V5RX998Z [access date]
 
-v1.3: Unknown.
+v2.3 monthly - Adler, Robert; Wang, Jian-Jian; Sapiano, Matthew; Huffman, George; Chiu, Long; Xie, Ping Ping; Ferraro, Ralph; Schneider, Udo; Becker, Andreas; Bolvin, David; Nelkin, Eric; Gu, Guojun; and NOAA CDR Program (2016). Global Precipitation Climatology Project (GPCP) Climate Data Record (CDR), Version 2.3 (Monthly). National Centers for Environmental Information. doi:10.7289/V56971M6 [access date]
 
 ## Reference
 
+Publications using this dataset should also cite the following journal article: 
 Huffman GJ, Adler RF, Morrissey MM, Bolvin DT, Curtis S, Joyce R, McGavock B, and Susskind J (2001).
 Global precipitation at one-degree daily resolution from multisatellite observations.
 *Journal of Hydrometeorolgy*, 2, 36-50.
