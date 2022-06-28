@@ -24,7 +24,13 @@ These documents are also available on the filesystem in the dataset folder.
 ## Data download
 
 We downloaded v1.3 daily and v2-3 monthly from the
-[NCEI server](https://www.ncei.noaa.gov/data/global-precipitation-climatology-project-gpcp-daily/access/),
+[NCEI server](https://www.ncei.noaa.gov/data/global-precipitation-climatology-project-gpcp-daily/access/), using a python based code.
+The code uses the requests module to download the files, to run it:
+   python gpcp.py -y <year> -t <frequency>
+To see all the options:
+   python gpcp.py --help
+Weekly updates are managed via the [Jenkins accessdev server](https://accessdev.nci.org.au/jenkins/job/aus-ref-clim-data-nci/job/GPCC/).
+
 
 ## Data location
 

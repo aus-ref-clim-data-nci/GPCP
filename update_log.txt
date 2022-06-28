@@ -9558,3 +9558,14 @@ Found extra file for d202203
 ['c20220605.nc', 'c20220410.nc']
 Moved gpcp_v02r03-preliminary_monthly_d202203_c20220410.nc to redundant directory
 Download is complete
+Updated on 2022-06-26 by pxp581
+Downloading files for 2022
+Checking for redundant files
+Download is complete
+Updated on 2022-06-26 by pxp581
+Downloading files for 2022
+Checking for redundant files
+Found extra file for d202203
+['c20220605.nc', 'c20220410.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202203_c20220410.nc to redundant directory
+Download is complete

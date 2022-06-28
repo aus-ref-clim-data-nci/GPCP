@@ -53,13 +53,11 @@ from bs4 import BeautifulSoup
 def parse_input():
     '''Parse input arguments '''
 
-    parser = argparse.ArgumentParser(description='''Download GPCP daily 
-             and ,onthly data from the NOAA server
-             https://www.ncei.noaa.gov/data/global-precipitation-
-             climatology-project-gpcp-{tstep}/access/
-             using requests to download file and BeautifulSoup to find links
-             in webpage. 
-             Usage: python gpcp.py -y <year> -t <tstep> ''',
+    parser = argparse.ArgumentParser(description='''
+    Download GPCP daily and monthly data from the NOAA server
+         https://www.ncei.noaa.gov/data/global-precipitation-climatology-project-gpcp-{tstep}/access/
+    using requests to download file and BeautifulSoup to find links in webpage. 
+    Usage: python gpcp.py -y <year> -t <tstep> ''',
              formatter_class=argparse.RawTextHelpFormatter)
     parser.add_argument('-y','--year', type=str, required=True,
                         help="year to process")
