@@ -1,0 +1,23 @@
+name: Run GPCP download code 
+on: 
+  workflow_dispatch:
+  schedule:
+    - cron: '10 2 * * 0'
+
+jobs:
+  runcode:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run  
+        uses: appleboy/ssh-action@v0.1.7
+        with:
+          host: ${{secrets.HOST}}
+          username: ${{secrets.USER}}
+          key: ${{secrets.SSH_KEY}}
+          script: |
+              module use /g/data3/hh5/public/modules
+              module load conda/analysis3
+              cd /g/data/ia39/aus-ref-clim-data-nci/gpcp/code
+              yr=2022
+              python gpcp.py -y $yr >> update_log.txt
+              python gpcp.py -y $yr -t monthly >> update_log.txt
