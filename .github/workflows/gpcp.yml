@@ -17,7 +17,7 @@ jobs:
           passphrase: ${{secrets.PASSPHRASE}}
           command_timeout: 30m
           script: |
-              module use /g/data3/hh5/public/modules
+              module use /g/data/hh5/public/modules
               module load conda/analysis3
               cd /g/data/ia39/aus-ref-clim-data-nci/gpcp/code
               yr=2023
