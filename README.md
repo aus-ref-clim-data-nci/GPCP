@@ -1,5 +1,7 @@
 # GPCP
 
+![workflow](https://github.com/aus-ref-clim-data-nci/GPCP/actions/workflows/gpcp.yml/badge.svg)
+
 ## Overview
 
 The Global Precipitation Climatology Project (GPCP),
