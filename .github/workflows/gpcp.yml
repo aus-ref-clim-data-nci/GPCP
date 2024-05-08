@@ -19,7 +19,11 @@ jobs:
           script: |
               module use /g/data/hh5/public/modules
               module load conda/analysis3
+              
               cd /g/data/ia39/aus-ref-clim-data-nci/gpcp/code
               yr=$(date +'%Y')
+              
               python gpcp.py -y $yr >> update_log.txt
               python gpcp.py -y $yr -t monthly >> update_log.txt
+
+              bash gpcp_concat.sh -y $yr
