@@ -36,7 +36,7 @@ To see all the options:
 python gpcp.py --help
 ```
 
-Weekly updates are managed via the [Jenkins accessdev server](https://accessdev.nci.org.au/jenkins/job/aus-ref-clim-data-nci/job/GPCC/).
+Weekly updates are managed via the [GitHub Action](https://github.com/aus-ref-clim-data-nci/GPCP/actions/workflows/gpcp.yml).
 
 
 ## Data location
@@ -63,6 +63,14 @@ then this is indicated in the filenames as in this example:
 ```
 gpcp_v02r03-preliminary_monthly_d201908_c20190910.nc
 ```
+
+We've now concatenate the V1-3 daily data into a yearly file, they are located at:
+
+```
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day_concat/<files>
+```
+Files are in netcdf4 format and filenames are `gpcp_v01r03_daily_YYYY.nc` for v1.3 daily.
+
 
 ## License
 
