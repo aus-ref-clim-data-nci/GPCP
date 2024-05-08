@@ -1,0 +1,66 @@
+#!/bin/bash
+# Copyright 2021 ARC Centre of Excellence for Climate Extremes
+#
+# author: Sam Green <sam.green@unsw.edu.au>
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#    http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+#
+#This script is to concatenate the daily gpcp data into yearly files.
+#
+#Date created: 07-05-2024
+
+# The year to concatenate:
+if [ "$1" == "-y" ]; then
+    yr=$2
+    echo "The year is $yr"
+else
+    echo "Usage: $0 -y <year>"
+fi
+
+root_dir="/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/"
+outdir="/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day_concat/"
+
+if [ -d "$outdir" ]; then
+    echo "Directory $outdir exists."
+else
+    echo "Directory $outdir does not exist. Creating now..."
+    mkdir -p "$outdir" || { echo "Failed to create directory $outdir" >&2; exit 1; }
+fi
+
+f_in=$root_dir/$yr/gpcp_v01r03_daily_d$yr*.nc
+f_out=$outdir/gpcp_v01r03_daily_$yr.nc
+
+echo "Concatenating $yr"
+
+if [ -f "$f_out" ]; then
+    echo "$f_out exists already, deleting"
+    rm $f_out
+else
+    echo "File doesn't exist, proceeding"
+fi
+
+# Concatenate all files from a day together, save as a tmp.nc file
+cdo --silent --no_history -L -s -f nc4c -z zip_4 cat $f_in $outdir/tmp.nc
+# Re-chunk the tmp.nc file
+echo "Concatenating complete, now re-chunking...."
+ncks --cnk_dmn time,31 --cnk_dmn lat,600 --cnk_dmn lon,600 $outdir/tmp.nc $f_out
+rm $outdir/tmp.nc
+# rewrite history attribute
+hist="downloaded original files from 
+    https://www.ncei.noaa.gov/data/global-precipitation-climatology-project-gpcp-{tstep}/access/
+    Using cdo to concatenate files, and nco to modify chunks: 
+    cdo --silent --no_warnings --no_history -L -s -f nc4c -z zip_4 cat $f_in $outdir/tmp.nc
+    ncks --cnk_dmn time,48 --cnk_dmn lat,600 --cnk_dmn lon,600 tmp.nc $f_out"
+# Add what we've done into the history attribute in the file. 
+ncatted -h -O -a history,global,o,c,"$hist" ${f_out}
