@@ -66,7 +66,7 @@ then this is indicated in the filenames as in this example:
 gpcp_v02r03-preliminary_monthly_d201908_c20190910.nc
 ```
 
-We've now concatenate the V1-3 daily data into a yearly file, they are located at:
+**NB:** We've now concatenated the V1-3 daily data into yearly files, they are located at:
 
 ```
 /g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day_concat/<files>
