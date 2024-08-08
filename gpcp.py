@@ -138,9 +138,9 @@ def main():
     root_dir = os.getenv("AUSREFDIR", "/g/data/ia39/aus-ref-clim-data-nci")
     run_dir = f"{root_dir}/gpcp/code"
     if tstep == "daily":
-       data_dir = f"{root_dir}/gpcp/data/day/v1-3/"
+       data_dir = f"{root_dir}/gpcp/data/day/v1-3/tmp/"
     else:
-       data_dir = f"{root_dir}/gpcp/data/mon/v2-3/"
+       data_dir = f"{root_dir}/gpcp/data/mon/v2-3/tmp/"
     url=("https://www.ncei.noaa.gov/data/global-precipitation-" + 
           f"climatology-project-gpcp-{tstep}/access/")
     try:
