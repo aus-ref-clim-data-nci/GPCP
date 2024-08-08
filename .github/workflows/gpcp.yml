@@ -26,4 +26,5 @@ jobs:
               python gpcp.py -y $yr >> update_log.txt
               python gpcp.py -y $yr -t monthly >> update_log.txt
 
-              bash gpcp_concat.sh -y $yr
+              bash gpcp_concat.sh -y $yr -v 1-3 -f day
+              bash gpcp_concat.sh -y $yr -v 3-2 -f mon

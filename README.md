@@ -53,9 +53,9 @@ where `<frequency>` is `mon` or `day` and
 `<version>` is `v1-2`,`v3-2` for daily data and `v2-3`, `v3-2` for monthly.
 
 Files are in netcdf4 format and have been concatenated into yearly files:
-- v1.2 daily: gpcp_v01r03_daily_YYYY.nc
+- v1.3 daily: gpcp_v1-3_day_YYYY.nc
 - v3.2 daily: gpcp_L3_V3.2_day_YYYY.nc
-- v2.3 monthly: gpcp_v02r03_monthly_YYYY.nc
+- v2.3 monthly: gpcp_v2-3_mon_YYYY.nc
 - v3.2 monthly: gpcp_L3_V3.2_mon_YYYY.nc
 
 If preliminary files are present (currently applies only to v2.3 monthly)
