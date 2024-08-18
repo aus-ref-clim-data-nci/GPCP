@@ -16313,3 +16313,1257 @@ Moved gpcp_v02r03-preliminary_monthly_d202205_c20220610.nc to redundant director
 ['c20220907.nc', 'c20220710.nc']
 Moved gpcp_v02r03-preliminary_monthly_d202206_c20220710.nc to redundant directory
 Download is complete
+Updated on 2023-07-26 by pxp581
+Downloading files for 2023
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230101_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230102_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230103_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230104_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230105_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230106_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230107_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230108_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230109_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230110_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230111_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230112_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230113_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230114_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230115_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230116_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230117_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230118_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230119_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230120_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230121_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230122_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230123_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230124_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230125_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230126_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230127_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230128_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230129_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230130_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230131_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230201_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230202_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230203_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230204_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230205_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230206_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230207_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230208_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230209_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230210_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230211_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230212_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230213_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230214_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230215_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230216_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230217_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230218_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230219_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230220_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230221_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230222_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230223_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230224_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230225_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230226_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230227_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230228_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230301_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230302_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230303_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230304_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230305_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230306_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230307_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230308_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230309_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230310_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230311_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230312_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230313_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230314_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230315_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230316_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230317_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230318_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230319_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230320_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230321_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230322_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230323_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230324_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230325_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230326_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230327_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230328_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230329_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230330_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230331_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230401_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230402_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230403_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230404_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230405_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230406_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230407_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230408_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230409_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230410_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230411_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230412_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230413_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230414_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230415_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230416_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230417_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230418_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230419_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230420_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230421_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230422_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230423_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230424_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230425_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230426_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230427_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230428_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230429_c20230713.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230430_c20230713.nc new
+Checking for redundant files
+Download is complete
+Updated on 2023-07-26 by pxp581
+Downloading files for 2023
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2023/gpcp_v02r03-preliminary_monthly_d202305_c20230610.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2023/gpcp_v02r03-preliminary_monthly_d202306_c20230710.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2023/gpcp_v02r03_monthly_d202301_c20230411.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2023/gpcp_v02r03_monthly_d202302_c20230505.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2023/gpcp_v02r03_monthly_d202303_c20230606.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2023/gpcp_v02r03_monthly_d202304_c20230713.nc new
+Checking for redundant files
+Download is complete
+Updated on 2023-07-30 by pxp581
+Downloading files for 2023
+Checking for redundant files
+Download is complete
+Updated on 2023-07-30 by pxp581
+Downloading files for 2023
+Checking for redundant files
+Download is complete
+Updated on 2023-08-06 by pxp581
+Downloading files for 2023
+Checking for redundant files
+Download is complete
+Updated on 2023-08-06 by pxp581
+Downloading files for 2023
+Checking for redundant files
+Download is complete
+Updated on 2023-08-13 by pxp581
+Downloading files for 2023
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230501_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230502_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230503_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230504_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230505_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230506_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230507_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230508_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230509_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230510_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230511_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230512_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230513_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230514_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230515_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230516_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230517_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230518_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230519_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230520_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230521_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230522_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230523_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230524_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230525_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230526_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230527_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230528_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230529_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230530_c20230809.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230531_c20230809.nc new
+Checking for redundant files
+Download is complete
+Updated on 2023-08-13 by pxp581
+Downloading files for 2023
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2023/gpcp_v02r03-preliminary_monthly_d202307_c20230810.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2023/gpcp_v02r03_monthly_d202305_c20230808.nc new
+Checking for redundant files
+Found extra file for d202305
+['c20230808.nc', 'c20230610.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202305_c20230610.nc to redundant directory
+Download is complete
+Updated on 2023-08-20 by pxp581
+Downloading files for 2023
+Checking for redundant files
+Download is complete
+Updated on 2023-08-20 by pxp581
+Downloading files for 2023
+Checking for redundant files
+Found extra file for d202305
+['c20230808.nc', 'c20230610.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202305_c20230610.nc to redundant directory
+Download is complete
+Updated on 2023-08-27 by pxp581
+Downloading files for 2023
+Checking for redundant files
+Download is complete
+Updated on 2023-08-27 by pxp581
+Downloading files for 2023
+Checking for redundant files
+Found extra file for d202305
+['c20230808.nc', 'c20230610.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202305_c20230610.nc to redundant directory
+Download is complete
+Updated on 2023-09-03 by pxp581
+Downloading files for 2023
+Checking for redundant files
+Download is complete
+Updated on 2023-09-03 by pxp581
+Downloading files for 2023
+Checking for redundant files
+Found extra file for d202305
+['c20230808.nc', 'c20230610.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202305_c20230610.nc to redundant directory
+Download is complete
+Updated on 2023-09-10 by pxp581
+Downloading files for 2023
+Checking for redundant files
+Download is complete
+Updated on 2023-09-10 by pxp581
+Downloading files for 2023
+Checking for redundant files
+Found extra file for d202305
+['c20230808.nc', 'c20230610.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202305_c20230610.nc to redundant directory
+Download is complete
+Updated on 2023-09-17 by pxp581
+Downloading files for 2023
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230601_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230602_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230603_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230604_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230605_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230606_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230607_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230608_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230609_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230610_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230611_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230612_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230613_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230614_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230615_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230616_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230617_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230618_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230619_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230620_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230621_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230622_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230623_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230624_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230625_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230626_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230627_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230628_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230629_c20230907.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230630_c20230907.nc new
+Checking for redundant files
+Download is complete
+Updated on 2023-09-17 by pxp581
+Downloading files for 2023
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2023/gpcp_v02r03-preliminary_monthly_d202308_c20230910.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2023/gpcp_v02r03_monthly_d202306_c20230907.nc new
+Checking for redundant files
+Found extra file for d202305
+Found extra file for d202306
+['c20230808.nc', 'c20230610.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202305_c20230610.nc to redundant directory
+['c20230710.nc', 'c20230907.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202306_c20230710.nc to redundant directory
+Download is complete
+Updated on 2023-09-24 by pxp581
+Downloading files for 2023
+Checking for redundant files
+Download is complete
+Updated on 2023-09-24 by pxp581
+Downloading files for 2023
+Checking for redundant files
+Found extra file for d202305
+Found extra file for d202306
+['c20230808.nc', 'c20230610.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202305_c20230610.nc to redundant directory
+['c20230710.nc', 'c20230907.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202306_c20230710.nc to redundant directory
+Download is complete
+Updated on 2024-02-07 by pxp581
+Downloading files for 1979
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1979/gpcp_v02r03_monthly_d197901_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1979/gpcp_v02r03_monthly_d197902_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1979/gpcp_v02r03_monthly_d197903_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1979/gpcp_v02r03_monthly_d197904_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1979/gpcp_v02r03_monthly_d197905_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1979/gpcp_v02r03_monthly_d197906_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1979/gpcp_v02r03_monthly_d197907_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1979/gpcp_v02r03_monthly_d197908_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1979/gpcp_v02r03_monthly_d197909_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1979/gpcp_v02r03_monthly_d197910_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1979/gpcp_v02r03_monthly_d197911_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1979/gpcp_v02r03_monthly_d197912_c20170616.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-02-07 by pxp581
+Downloading files for 1980
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1980/gpcp_v02r03_monthly_d198001_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1980/gpcp_v02r03_monthly_d198002_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1980/gpcp_v02r03_monthly_d198003_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1980/gpcp_v02r03_monthly_d198004_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1980/gpcp_v02r03_monthly_d198005_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1980/gpcp_v02r03_monthly_d198006_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1980/gpcp_v02r03_monthly_d198007_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1980/gpcp_v02r03_monthly_d198008_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1980/gpcp_v02r03_monthly_d198009_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1980/gpcp_v02r03_monthly_d198010_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1980/gpcp_v02r03_monthly_d198011_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1980/gpcp_v02r03_monthly_d198012_c20170616.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-02-07 by pxp581
+Downloading files for 1981
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1981/gpcp_v02r03_monthly_d198101_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1981/gpcp_v02r03_monthly_d198102_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1981/gpcp_v02r03_monthly_d198103_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1981/gpcp_v02r03_monthly_d198104_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1981/gpcp_v02r03_monthly_d198105_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1981/gpcp_v02r03_monthly_d198106_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1981/gpcp_v02r03_monthly_d198107_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1981/gpcp_v02r03_monthly_d198108_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1981/gpcp_v02r03_monthly_d198109_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1981/gpcp_v02r03_monthly_d198110_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1981/gpcp_v02r03_monthly_d198111_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1981/gpcp_v02r03_monthly_d198112_c20170616.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-02-07 by pxp581
+Downloading files for 1982
+Checking for redundant files
+Download is complete
+Updated on 2024-02-07 by pxp581
+Downloading files for 1983
+Checking for redundant files
+Download is complete
+Updated on 2024-02-07 by pxp581
+Downloading files for 1984
+Updated on 2024-02-07 by pxp581
+Downloading files for 1982
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1982/gpcp_v02r03_monthly_d198201_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1982/gpcp_v02r03_monthly_d198202_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1982/gpcp_v02r03_monthly_d198203_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1982/gpcp_v02r03_monthly_d198204_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1982/gpcp_v02r03_monthly_d198205_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1982/gpcp_v02r03_monthly_d198206_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1982/gpcp_v02r03_monthly_d198207_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1982/gpcp_v02r03_monthly_d198208_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1982/gpcp_v02r03_monthly_d198209_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1982/gpcp_v02r03_monthly_d198210_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1982/gpcp_v02r03_monthly_d198211_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1982/gpcp_v02r03_monthly_d198212_c20170616.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-02-07 by pxp581
+Downloading files for 1983
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1983/gpcp_v02r03_monthly_d198301_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1983/gpcp_v02r03_monthly_d198302_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1983/gpcp_v02r03_monthly_d198303_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1983/gpcp_v02r03_monthly_d198304_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1983/gpcp_v02r03_monthly_d198305_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1983/gpcp_v02r03_monthly_d198306_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1983/gpcp_v02r03_monthly_d198307_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1983/gpcp_v02r03_monthly_d198308_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1983/gpcp_v02r03_monthly_d198309_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1983/gpcp_v02r03_monthly_d198310_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1983/gpcp_v02r03_monthly_d198311_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1983/gpcp_v02r03_monthly_d198312_c20170616.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-02-07 by pxp581
+Downloading files for 1984
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1984/gpcp_v02r03_monthly_d198401_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1984/gpcp_v02r03_monthly_d198402_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1984/gpcp_v02r03_monthly_d198403_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1984/gpcp_v02r03_monthly_d198404_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1984/gpcp_v02r03_monthly_d198405_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1984/gpcp_v02r03_monthly_d198406_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1984/gpcp_v02r03_monthly_d198407_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1984/gpcp_v02r03_monthly_d198408_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1984/gpcp_v02r03_monthly_d198409_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1984/gpcp_v02r03_monthly_d198410_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1984/gpcp_v02r03_monthly_d198411_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1984/gpcp_v02r03_monthly_d198412_c20170616.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-02-07 by pxp581
+Downloading files for 1985
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1985/gpcp_v02r03_monthly_d198501_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1985/gpcp_v02r03_monthly_d198502_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1985/gpcp_v02r03_monthly_d198503_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1985/gpcp_v02r03_monthly_d198504_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1985/gpcp_v02r03_monthly_d198505_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1985/gpcp_v02r03_monthly_d198506_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1985/gpcp_v02r03_monthly_d198507_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1985/gpcp_v02r03_monthly_d198508_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1985/gpcp_v02r03_monthly_d198509_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1985/gpcp_v02r03_monthly_d198510_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1985/gpcp_v02r03_monthly_d198511_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1985/gpcp_v02r03_monthly_d198512_c20170616.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-02-07 by pxp581
+Downloading files for 1986
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1986/gpcp_v02r03_monthly_d198601_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1986/gpcp_v02r03_monthly_d198602_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1986/gpcp_v02r03_monthly_d198603_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1986/gpcp_v02r03_monthly_d198604_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1986/gpcp_v02r03_monthly_d198605_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1986/gpcp_v02r03_monthly_d198606_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1986/gpcp_v02r03_monthly_d198607_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1986/gpcp_v02r03_monthly_d198608_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1986/gpcp_v02r03_monthly_d198609_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1986/gpcp_v02r03_monthly_d198610_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1986/gpcp_v02r03_monthly_d198611_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1986/gpcp_v02r03_monthly_d198612_c20170616.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-02-07 by pxp581
+Downloading files for 1987
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1987/gpcp_v02r03_monthly_d198701_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1987/gpcp_v02r03_monthly_d198702_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1987/gpcp_v02r03_monthly_d198703_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1987/gpcp_v02r03_monthly_d198704_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1987/gpcp_v02r03_monthly_d198705_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1987/gpcp_v02r03_monthly_d198706_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1987/gpcp_v02r03_monthly_d198707_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1987/gpcp_v02r03_monthly_d198708_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1987/gpcp_v02r03_monthly_d198709_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1987/gpcp_v02r03_monthly_d198710_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1987/gpcp_v02r03_monthly_d198711_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1987/gpcp_v02r03_monthly_d198712_c20170616.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-02-07 by pxp581
+Downloading files for 1988
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1988/gpcp_v02r03_monthly_d198801_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1988/gpcp_v02r03_monthly_d198802_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1988/gpcp_v02r03_monthly_d198803_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1988/gpcp_v02r03_monthly_d198804_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1988/gpcp_v02r03_monthly_d198805_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1988/gpcp_v02r03_monthly_d198806_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1988/gpcp_v02r03_monthly_d198807_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1988/gpcp_v02r03_monthly_d198808_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1988/gpcp_v02r03_monthly_d198809_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1988/gpcp_v02r03_monthly_d198810_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1988/gpcp_v02r03_monthly_d198811_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1988/gpcp_v02r03_monthly_d198812_c20170616.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-02-07 by pxp581
+Downloading files for 1989
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1989/gpcp_v02r03_monthly_d198901_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1989/gpcp_v02r03_monthly_d198902_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1989/gpcp_v02r03_monthly_d198903_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1989/gpcp_v02r03_monthly_d198904_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1989/gpcp_v02r03_monthly_d198905_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1989/gpcp_v02r03_monthly_d198906_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1989/gpcp_v02r03_monthly_d198907_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1989/gpcp_v02r03_monthly_d198908_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1989/gpcp_v02r03_monthly_d198909_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1989/gpcp_v02r03_monthly_d198910_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1989/gpcp_v02r03_monthly_d198911_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1989/gpcp_v02r03_monthly_d198912_c20170616.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-02-07 by pxp581
+Downloading files for 1990
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1990/gpcp_v02r03_monthly_d199001_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1990/gpcp_v02r03_monthly_d199002_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1990/gpcp_v02r03_monthly_d199003_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1990/gpcp_v02r03_monthly_d199004_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1990/gpcp_v02r03_monthly_d199005_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1990/gpcp_v02r03_monthly_d199006_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1990/gpcp_v02r03_monthly_d199007_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1990/gpcp_v02r03_monthly_d199008_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1990/gpcp_v02r03_monthly_d199009_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1990/gpcp_v02r03_monthly_d199010_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1990/gpcp_v02r03_monthly_d199011_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1990/gpcp_v02r03_monthly_d199012_c20170616.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-02-07 by pxp581
+Downloading files for 1991
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1991/gpcp_v02r03_monthly_d199101_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1991/gpcp_v02r03_monthly_d199102_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1991/gpcp_v02r03_monthly_d199103_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1991/gpcp_v02r03_monthly_d199104_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1991/gpcp_v02r03_monthly_d199105_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1991/gpcp_v02r03_monthly_d199106_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1991/gpcp_v02r03_monthly_d199107_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1991/gpcp_v02r03_monthly_d199108_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1991/gpcp_v02r03_monthly_d199109_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1991/gpcp_v02r03_monthly_d199110_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1991/gpcp_v02r03_monthly_d199111_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1991/gpcp_v02r03_monthly_d199112_c20170616.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-02-07 by pxp581
+Downloading files for 1992
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1992/gpcp_v02r03_monthly_d199201_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1992/gpcp_v02r03_monthly_d199202_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1992/gpcp_v02r03_monthly_d199203_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1992/gpcp_v02r03_monthly_d199204_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1992/gpcp_v02r03_monthly_d199205_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1992/gpcp_v02r03_monthly_d199206_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1992/gpcp_v02r03_monthly_d199207_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1992/gpcp_v02r03_monthly_d199208_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1992/gpcp_v02r03_monthly_d199209_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1992/gpcp_v02r03_monthly_d199210_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1992/gpcp_v02r03_monthly_d199211_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1992/gpcp_v02r03_monthly_d199212_c20170616.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-02-07 by pxp581
+Downloading files for 1993
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1993/gpcp_v02r03_monthly_d199301_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1993/gpcp_v02r03_monthly_d199302_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1993/gpcp_v02r03_monthly_d199303_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1993/gpcp_v02r03_monthly_d199304_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1993/gpcp_v02r03_monthly_d199305_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1993/gpcp_v02r03_monthly_d199306_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1993/gpcp_v02r03_monthly_d199307_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1993/gpcp_v02r03_monthly_d199308_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1993/gpcp_v02r03_monthly_d199309_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1993/gpcp_v02r03_monthly_d199310_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1993/gpcp_v02r03_monthly_d199311_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1993/gpcp_v02r03_monthly_d199312_c20170616.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-02-07 by pxp581
+Downloading files for 1994
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1994/gpcp_v02r03_monthly_d199401_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1994/gpcp_v02r03_monthly_d199402_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1994/gpcp_v02r03_monthly_d199403_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1994/gpcp_v02r03_monthly_d199404_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1994/gpcp_v02r03_monthly_d199405_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1994/gpcp_v02r03_monthly_d199406_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1994/gpcp_v02r03_monthly_d199407_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1994/gpcp_v02r03_monthly_d199408_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1994/gpcp_v02r03_monthly_d199409_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1994/gpcp_v02r03_monthly_d199410_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1994/gpcp_v02r03_monthly_d199411_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1994/gpcp_v02r03_monthly_d199412_c20170616.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-02-07 by pxp581
+Downloading files for 1995
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1995/gpcp_v02r03_monthly_d199501_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1995/gpcp_v02r03_monthly_d199502_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1995/gpcp_v02r03_monthly_d199503_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1995/gpcp_v02r03_monthly_d199504_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1995/gpcp_v02r03_monthly_d199505_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1995/gpcp_v02r03_monthly_d199506_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1995/gpcp_v02r03_monthly_d199507_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1995/gpcp_v02r03_monthly_d199508_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1995/gpcp_v02r03_monthly_d199509_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1995/gpcp_v02r03_monthly_d199510_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1995/gpcp_v02r03_monthly_d199511_c20170616.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//1995/gpcp_v02r03_monthly_d199512_c20170616.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-03-25 by ia39_download
+Downloading files for 2023
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230701_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230702_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230703_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230704_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230705_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230706_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230707_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230708_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230709_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230710_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230711_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230712_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230713_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230714_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230715_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230716_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230717_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230718_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230719_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230720_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230721_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230722_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230723_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230724_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230725_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230726_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230727_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230728_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230729_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230730_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230731_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230801_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230802_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230803_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230804_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230805_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230806_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230807_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230808_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230809_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230810_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230811_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230812_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230813_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230814_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230815_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230816_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230817_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230818_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230819_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230820_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230821_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230822_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230823_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230824_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230825_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230826_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230827_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230828_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230829_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230830_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230831_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230901_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230902_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230903_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230904_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230905_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230906_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230907_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230908_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230909_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230910_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230911_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230912_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230913_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230914_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230915_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230916_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230917_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230918_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230919_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230920_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230921_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230922_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230923_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230924_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230925_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230926_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230927_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230928_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230929_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20230930_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231001_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231002_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231003_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231004_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231005_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231006_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231007_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231008_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231009_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231010_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231011_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231012_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231013_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231014_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231015_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231016_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231017_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231018_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231019_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231020_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231021_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231022_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231023_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231024_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231025_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231026_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231027_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231028_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231029_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231030_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231031_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231101_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231102_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231103_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231104_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231105_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231106_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231107_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231108_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231109_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231110_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231111_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231112_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231113_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231114_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231115_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231116_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231117_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231118_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231119_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231120_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231121_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231122_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231123_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231124_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231125_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231126_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231127_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231128_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231129_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231130_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231201_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231202_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231203_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231204_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231205_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231206_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231207_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231208_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231209_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231210_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231211_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231212_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231213_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231214_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231215_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231216_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231217_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231218_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231219_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231220_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231221_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231222_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231223_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231224_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231225_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231226_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231227_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231228_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231229_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231230_c20240308.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2023/gpcp_v01r03_daily_d20231231_c20240308.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-03-25 by ia39_download
+Downloading files for 2023
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2023/gpcp_v02r03_monthly_d202307_c20231005.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2023/gpcp_v02r03_monthly_d202308_c20231106.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2023/gpcp_v02r03_monthly_d202309_c20231206.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2023/gpcp_v02r03_monthly_d202310_c20240105.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2023/gpcp_v02r03_monthly_d202311_c20240207.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2023/gpcp_v02r03_monthly_d202312_c20240308.nc new
+Checking for redundant files
+Found extra file for d202307
+Found extra file for d202305
+Found extra file for d202308
+Found extra file for d202306
+['c20230810.nc', 'c20231005.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202307_c20230810.nc to redundant directory
+['c20230808.nc', 'c20230610.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202305_c20230610.nc to redundant directory
+['c20231106.nc', 'c20230910.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202308_c20230910.nc to redundant directory
+['c20230710.nc', 'c20230907.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202306_c20230710.nc to redundant directory
+Download is complete
+Updated on 2024-03-31 by ia39_download
+Downloading files for 2023
+Checking for redundant files
+Download is complete
+Updated on 2024-03-31 by ia39_download
+Downloading files for 2023
+Checking for redundant files
+Found extra file for d202307
+Found extra file for d202305
+Found extra file for d202308
+Found extra file for d202306
+['c20230810.nc', 'c20231005.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202307_c20230810.nc to redundant directory
+['c20230808.nc', 'c20230610.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202305_c20230610.nc to redundant directory
+['c20231106.nc', 'c20230910.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202308_c20230910.nc to redundant directory
+['c20230710.nc', 'c20230907.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202306_c20230710.nc to redundant directory
+Download is complete
+Updated on 2024-04-07 by ia39_download
+Downloading files for 2023
+Checking for redundant files
+Download is complete
+Updated on 2024-04-07 by ia39_download
+Downloading files for 2023
+Checking for redundant files
+Found extra file for d202307
+Found extra file for d202305
+Found extra file for d202308
+Found extra file for d202306
+['c20230810.nc', 'c20231005.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202307_c20230810.nc to redundant directory
+['c20230808.nc', 'c20230610.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202305_c20230610.nc to redundant directory
+['c20231106.nc', 'c20230910.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202308_c20230910.nc to redundant directory
+['c20230710.nc', 'c20230907.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202306_c20230710.nc to redundant directory
+Download is complete
+Updated on 2024-04-14 by ia39_download
+Downloading files for 2023
+Checking for redundant files
+Download is complete
+Updated on 2024-04-14 by ia39_download
+Downloading files for 2023
+Checking for redundant files
+Found extra file for d202307
+Found extra file for d202305
+Found extra file for d202308
+Found extra file for d202306
+['c20230810.nc', 'c20231005.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202307_c20230810.nc to redundant directory
+['c20230808.nc', 'c20230610.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202305_c20230610.nc to redundant directory
+['c20231106.nc', 'c20230910.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202308_c20230910.nc to redundant directory
+['c20230710.nc', 'c20230907.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202306_c20230710.nc to redundant directory
+Download is complete
+Updated on 2024-04-21 by ia39_download
+Downloading files for 2023
+Checking for redundant files
+Download is complete
+Updated on 2024-04-21 by ia39_download
+Downloading files for 2023
+Checking for redundant files
+Found extra file for d202307
+Found extra file for d202305
+Found extra file for d202308
+Found extra file for d202306
+['c20230810.nc', 'c20231005.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202307_c20230810.nc to redundant directory
+['c20230808.nc', 'c20230610.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202305_c20230610.nc to redundant directory
+['c20231106.nc', 'c20230910.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202308_c20230910.nc to redundant directory
+['c20230710.nc', 'c20230907.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202306_c20230710.nc to redundant directory
+Download is complete
+Updated on 2024-04-28 by ia39_download
+Downloading files for 2023
+Checking for redundant files
+Download is complete
+Updated on 2024-04-28 by ia39_download
+Downloading files for 2023
+Checking for redundant files
+Found extra file for d202307
+Found extra file for d202305
+Found extra file for d202308
+Found extra file for d202306
+['c20230810.nc', 'c20231005.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202307_c20230810.nc to redundant directory
+['c20230808.nc', 'c20230610.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202305_c20230610.nc to redundant directory
+['c20231106.nc', 'c20230910.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202308_c20230910.nc to redundant directory
+['c20230710.nc', 'c20230907.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202306_c20230710.nc to redundant directory
+Download is complete
+Updated on 2024-05-05 by ia39_download
+Downloading files for 2023
+Checking for redundant files
+Download is complete
+Updated on 2024-05-05 by ia39_download
+Downloading files for 2023
+Checking for redundant files
+Found extra file for d202307
+Found extra file for d202305
+Found extra file for d202308
+Found extra file for d202306
+['c20230810.nc', 'c20231005.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202307_c20230810.nc to redundant directory
+['c20230808.nc', 'c20230610.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202305_c20230610.nc to redundant directory
+['c20231106.nc', 'c20230910.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202308_c20230910.nc to redundant directory
+['c20230710.nc', 'c20230907.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202306_c20230710.nc to redundant directory
+Download is complete
+Updated on 2024-05-12 by ia39_download
+Downloading files for 2024
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240101_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240102_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240103_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240104_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240105_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240106_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240107_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240108_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240109_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240110_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240111_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240112_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240113_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240114_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240115_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240116_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240117_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240118_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240119_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240120_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240121_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240122_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240123_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240124_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240125_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240126_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240127_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240128_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240129_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240130_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240131_c20240408.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240201_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240202_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240203_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240204_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240205_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240206_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240207_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240208_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240209_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240210_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240211_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240212_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240213_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240214_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240215_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240216_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240217_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240218_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240219_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240220_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240221_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240222_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240223_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240224_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240225_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240226_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240227_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240228_c20240508.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240229_c20240508.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-05-12 by ia39_download
+Downloading files for 2024
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2024/gpcp_v02r03-preliminary_monthly_d202403_c20240410.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2024/gpcp_v02r03-preliminary_monthly_d202404_c20240510.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2024/gpcp_v02r03_monthly_d202401_c20240407.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2024/gpcp_v02r03_monthly_d202402_c20240508.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-05-19 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Download is complete
+Updated on 2024-05-19 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Download is complete
+Updated on 2024-05-26 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Download is complete
+Updated on 2024-05-26 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Download is complete
+Updated on 2024-06-02 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Download is complete
+Updated on 2024-06-02 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Download is complete
+Updated on 2024-06-04 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Download is complete
+Updated on 2024-06-04 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Download is complete
+Updated on 2024-06-09 by ia39_download
+Downloading files for 2024
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240301_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240302_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240303_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240304_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240305_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240306_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240307_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240308_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240309_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240310_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240311_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240312_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240313_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240314_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240315_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240316_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240317_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240318_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240319_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240320_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240321_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240322_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240323_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240324_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240325_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240326_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240327_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240328_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240329_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240330_c20240607.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240331_c20240607.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-06-09 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Download is complete
+Updated on 2024-06-16 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Download is complete
+Updated on 2024-06-16 by ia39_download
+Downloading files for 2024
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2024/gpcp_v02r03-preliminary_monthly_d202405_c20240610.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2024/gpcp_v02r03_monthly_d202403_c20240607.nc new
+Checking for redundant files
+Found extra file for d202403
+['c20240410.nc', 'c20240607.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202403_c20240410.nc to redundant directory
+Download is complete
+Updated on 2024-06-23 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Download is complete
+Updated on 2024-06-23 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Found extra file for d202403
+['c20240410.nc', 'c20240607.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202403_c20240410.nc to redundant directory
+Download is complete
+Updated on 2024-06-30 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Download is complete
+Updated on 2024-06-30 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Found extra file for d202403
+['c20240410.nc', 'c20240607.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202403_c20240410.nc to redundant directory
+Download is complete
+Updated on 2024-07-07 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Download is complete
+Updated on 2024-07-07 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Found extra file for d202403
+['c20240410.nc', 'c20240607.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202403_c20240410.nc to redundant directory
+Download is complete
+Updated on 2024-07-14 by ia39_download
+Downloading files for 2024
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240401_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240402_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240403_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240404_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240405_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240406_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240407_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240408_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240409_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240410_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240411_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240412_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240413_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240414_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240415_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240416_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240417_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240418_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240419_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240420_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240421_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240422_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240423_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240424_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240425_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240426_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240427_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240428_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240429_c20240708.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3//2024/gpcp_v01r03_daily_d20240430_c20240708.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-07-14 by ia39_download
+Downloading files for 2024
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2024/gpcp_v02r03-preliminary_monthly_d202406_c20240710.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3//2024/gpcp_v02r03_monthly_d202404_c20240708.nc new
+Checking for redundant files
+Found extra file for d202404
+Found extra file for d202403
+['c20240510.nc', 'c20240708.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202404_c20240510.nc to redundant directory
+['c20240410.nc', 'c20240607.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202403_c20240410.nc to redundant directory
+Download is complete
+Updated on 2024-07-21 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Download is complete
+Updated on 2024-07-21 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Found extra file for d202404
+Found extra file for d202403
+['c20240510.nc', 'c20240708.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202404_c20240510.nc to redundant directory
+['c20240410.nc', 'c20240607.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202403_c20240410.nc to redundant directory
+Download is complete
+Updated on 2024-07-28 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Download is complete
+Updated on 2024-07-28 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Found extra file for d202404
+Found extra file for d202403
+['c20240510.nc', 'c20240708.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202404_c20240510.nc to redundant directory
+['c20240410.nc', 'c20240607.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202403_c20240410.nc to redundant directory
+Download is complete
+Updated on 2024-08-04 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Download is complete
+Updated on 2024-08-04 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Found extra file for d202404
+Found extra file for d202403
+['c20240510.nc', 'c20240708.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202404_c20240510.nc to redundant directory
+['c20240410.nc', 'c20240607.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202403_c20240410.nc to redundant directory
+Download is complete
+Updated on 2024-08-11 by ia39_download
+Downloading files for 2024
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240501_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240502_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240503_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240504_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240505_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240506_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240507_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240508_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240509_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240510_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240511_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240512_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240513_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240514_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240515_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240516_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240517_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240518_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240519_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240520_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240521_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240522_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240523_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240524_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240525_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240526_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240527_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240528_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240529_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240530_c20240807.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/day/v1-3/tmp//2024/gpcp_v01r03_daily_d20240531_c20240807.nc new
+Checking for redundant files
+Download is complete
+Updated on 2024-08-11 by ia39_download
+Downloading files for 2024
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3/tmp//2024/gpcp_v02r03-preliminary_monthly_d202407_c20240810.nc new
+/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/mon/v2-3/tmp//2024/gpcp_v02r03_monthly_d202405_c20240807.nc new
+Checking for redundant files
+Found extra file for d202404
+Found extra file for d202403
+Found extra file for d202405
+['c20240510.nc', 'c20240708.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202404_c20240510.nc to redundant directory
+['c20240410.nc', 'c20240607.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202403_c20240410.nc to redundant directory
+['c20240807.nc', 'c20240610.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202405_c20240610.nc to redundant directory
+Download is complete
+Updated on 2024-08-18 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Download is complete
+Updated on 2024-08-18 by ia39_download
+Downloading files for 2024
+Checking for redundant files
+Found extra file for d202404
+Found extra file for d202403
+Found extra file for d202405
+['c20240510.nc', 'c20240708.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202404_c20240510.nc to redundant directory
+['c20240410.nc', 'c20240607.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202403_c20240410.nc to redundant directory
+['c20240807.nc', 'c20240610.nc']
+Moved gpcp_v02r03-preliminary_monthly_d202405_c20240610.nc to redundant directory
+Download is complete
