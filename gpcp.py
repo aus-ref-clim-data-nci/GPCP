@@ -61,6 +61,8 @@ def parse_input():
              formatter_class=argparse.RawTextHelpFormatter)
     parser.add_argument('-y','--year', type=str, required=True,
                         help="year to process")
+    parser.add_argument('-v','--version', type=str, required=True,
+                        help="version to process")
     parser.add_argument('-t','--tstep', default="daily", required=False,
               help="timestep either monthly or daily, daily is default")
     return vars(parser.parse_args())
@@ -132,17 +134,27 @@ def main():
     inputs = parse_input()
     yr = inputs['year']
     tstep = inputs['tstep']
+    version = inputs['version']
     # define url for GPCP http server and data_dir for local collection
     today = datetime.today().strftime('%Y-%m-%d')
     user = os.getenv("USER")
     root_dir = os.getenv("AUSREFDIR", "/g/data/ia39/aus-ref-clim-data-nci")
     run_dir = f"{root_dir}/gpcp/code"
     if tstep == "daily":
-       data_dir = f"{root_dir}/gpcp/data/day/v1-3/tmp/"
+       data_dir = f"{root_dir}/gpcp/data/day/{version}/tmp/"
     else:
-       data_dir = f"{root_dir}/gpcp/data/mon/v2-3/tmp/"
-    url=("https://www.ncei.noaa.gov/data/global-precipitation-" + 
+       data_dir = f"{root_dir}/gpcp/data/mon/{version}/tmp/"
+    # choose url base don version
+    url_ncei = "https://www.ncei.noaa.gov/data/global-precipitation-" + 
           f"climatology-project-gpcp-{tstep}/access/")
+    if tstep == 'daily':
+        tstep2 = 'DAY'
+    else: 
+        tstep2 = 'MON'
+    url_gesdisc = "https://measures.gesdisc.eosdis.nasa.gov/data/GPCP/GPCP{tsetp2}.3.2/"
+    # set up to complete
+    url_dict = {'v1-2': url_ncei, 'v2-3': url_ncei, 'v3-2': url_gesdisc}
+    url = url_dict[version]
     try:
         os.chdir(data_dir + f"/{yr}")
     except:
@@ -157,5 +169,7 @@ def main():
     print("Download is complete")
 
 
+#new v3.2 daily: https://measures.gesdisc.eosdis.nasa.gov/data/GPCP/GPCPDAY.3.2/
+#new v3.2 monthly: https://measures.gesdisc.eosdis.nasa.gov/data/GPCP/GPCPMON.3.2/2023/
 if __name__ == "__main__":
     main()
