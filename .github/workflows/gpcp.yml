@@ -23,8 +23,8 @@ jobs:
               cd /g/data/ia39/aus-ref-clim-data-nci/gpcp/code
               yr=$(date +'%Y')
               
-              python gpcp.py -y $yr >> update_log.txt
-              python gpcp.py -y $yr -t monthly >> update_log.txt
+              python gpcp.py -y $yr -v v1-3 >> update_log.txt
+              python gpcp.py -y $yr -t monthly -v v2-3 >> update_log.txt
 
               bash gpcp_concat.sh -y $yr -v 1-3 -f day
-              bash gpcp_concat.sh -y $yr -v 3-2 -f mon
+              bash gpcp_concat.sh -y $yr -v 2-3 -f mon
