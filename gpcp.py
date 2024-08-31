@@ -151,7 +151,7 @@ def main():
         tstep2 = 'DAY'
     else: 
         tstep2 = 'MON'
-    url_gesdisc = "https://measures.gesdisc.eosdis.nasa.gov/data/GPCP/GPCP{tsetp2}.3.2/"
+    url_gesdisc = "https://measures.gesdisc.eosdis.nasa.gov/data/GPCP/GPCP{tstep2}.3.2/"
     # set up to complete
     url_dict = {'v1-2': url_ncei, 'v2-3': url_ncei, 'v3-2': url_gesdisc}
     url = url_dict[version]
