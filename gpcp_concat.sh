@@ -54,8 +54,8 @@ echo "The version is $ver"
 echo "The frequency is $freq"
 
 
-root_dir="/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/$freq/v$ver/tmp/$yr/"
-outdir="/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/$freq/v$ver/"
+root_dir="/g/data/jt48/aus-ref-clim-data-nci/gpcp/data/$freq/v$ver/tmp/$yr/"
+outdir="/g/data/jt48/aus-ref-clim-data-nci/gpcp/data/$freq/v$ver/"
 
 if [ -d "$outdir" ]; then
     echo "Directory $outdir exists."
