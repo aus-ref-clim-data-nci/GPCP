@@ -138,7 +138,7 @@ def main():
     # define url for GPCP http server and data_dir for local collection
     today = datetime.today().strftime('%Y-%m-%d')
     user = os.getenv("USER")
-    root_dir = os.getenv("AUSREFDIR", "/g/data/ia39/aus-ref-clim-data-nci")
+    root_dir = os.getenv("AUSREFDIR", "/g/data/jt48/aus-ref-clim-data-nci")
     run_dir = f"{root_dir}/gpcp/code"
     if tstep == "daily":
        data_dir = f"{root_dir}/gpcp/data/day/{version}/tmp/"
