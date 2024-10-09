@@ -20,7 +20,7 @@ jobs:
               module use /g/data/hh5/public/modules
               module load conda/analysis3
               
-              cd /g/data/ia39/aus-ref-clim-data-nci/gpcp/code
+              cd /g/data/jt48/aus-ref-clim-data-nci/gpcp/code
               yr=$(date +'%Y')
               
               python gpcp.py -y $yr -v v1-3 >> update_log.txt
