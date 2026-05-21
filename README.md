@@ -47,7 +47,7 @@ Weekly updates are managed via the [GitHub Action](https://github.com/aus-ref-cl
 We've downloaded GPCP data to:
 
 ```
-/g/data/ia39/aus-ref-clim-data-nci/gpcp/data/<frequency>/<version>/<files>
+/g/data/jt48/aus-ref-clim-data-nci/gpcp/data/<frequency>/<version>/<files>
 ```
 where `<frequency>` is `mon` or `day` and
 `<version>` is `v1-2`,`v3-2` for daily data and `v2-3`, `v3-2` for monthly.
