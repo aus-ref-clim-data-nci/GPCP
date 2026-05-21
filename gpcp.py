@@ -18,8 +18,8 @@ limitations under the License.
 
 This script is used to download, checksum and update the GPCP dataset on
  the NCI server
-The dataset is stored in /g/data/ia39/aus-ref-clim-data-nci/gpcp/data
-The code logs files are currently in /g/data/ia39/aus-ref-clim-data-nci/gpcp/code/update_log.txt
+The dataset is stored in /g/data/jt48/aus-ref-clim-data-nci/gpcp/data
+The code logs files are currently in /g/data/jt48/aus-ref-clim-data-nci/gpcp/code/update_log.txt
  Created:
       2018-01-30
  Last change:
@@ -138,7 +138,7 @@ def main():
     # define url for GPCP http server and data_dir for local collection
     today = datetime.today().strftime('%Y-%m-%d')
     user = os.getenv("USER")
-    root_dir = os.getenv("AUSREFDIR", "/g/data/ia39/aus-ref-clim-data-nci")
+    root_dir = os.getenv("AUSREFDIR", "/g/data/jt48/aus-ref-clim-data-nci")
     run_dir = f"{root_dir}/gpcp/code"
     if tstep == "daily":
        data_dir = f"{root_dir}/gpcp/data/day/{version}/tmp/"
